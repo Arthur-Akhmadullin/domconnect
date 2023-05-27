@@ -12,8 +12,8 @@
 ---
 
 ## Как установить проект
-1) Создайте копию проекта командой `git clone https://github.com/arthur-akhmadullin/tensor.git`. Копия будет помещена в папку "tensor".
-2) Перейдите в папку "tensor", выполнив в командной строке: `cd tensor`. 
+1) Создайте копию проекта командой `git clone https://github.com/arthur-akhmadullin/domconnect.git`. Копия будет помещена в папку "domconnect".
+2) Перейдите в папку "domconnect", выполнив в командной строке: `cd domconnect`. 
 3) Создайте виртуальное окружение, выполнив команду `python -m venv <название-вашего-виртуального-окружения>`.
 4) Активируйте виртуальное окружение, выполнив команду `<название-вашего-виртуального-окружения>\Scripts\activate` (Windows) или `. <название-вашего-виртуального-окружения>/bin/activate` (Linux).
 5) Установите библиотеку Selenium, последовательно выполнив команды: `python -m pip install --upgrade pip`, `pip install selenium`.
